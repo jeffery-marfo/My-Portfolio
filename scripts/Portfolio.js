@@ -7,8 +7,8 @@ toggleMode.addEventListener("click", () => {
 // Changing text animation
 const changingText = document.getElementById("changing-text");
 const textOptions = [
-  "Web Designer",
   "Jeffery Marfo",
+  "Product Designer",
   "UI UX Designer",
   "Web Developer",
 ];
